@@ -4,7 +4,6 @@ Instagram Auto Meme Account is a Discord bot (with a fantastic name of course) t
 ## What can it do?
 The bot lives in a Discord channel, and always shows the next ten memes in the queue. You can remove items from the queue and edit the caption all from a simple reaction-based interface. It'll post the first item in the queue every 40-60 minutes.
 
-![example](http://apartofme.club/uploads/pttbi9.png) 
 
 ## Installation
 1. Install [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/)
@@ -30,9 +29,3 @@ You can also edit the tags or subreddits you want the bot to pull from
 ```
 node index.js
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
